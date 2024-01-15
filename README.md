@@ -9,6 +9,12 @@ A curated list of finance libraries, packages and resources for Financial Softwa
 
 ## Python
 
+- [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
+
 ## C++
 
+- [QuantLib](https://www.quantlib.org/) - Library for financial instruments pricing, modeling, trading and risk management.
+
 ## JavaScript
+
+- [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets. It is written in Typescript, the backend api is based on NestJS with PostgreSQL database with Prisma ORM and Redis for caching. The frontend is build with Angular.
