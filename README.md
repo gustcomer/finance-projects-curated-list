@@ -7,6 +7,7 @@ A curated list of finance libraries, packages and resources for Financial Softwa
   - [C++](#c)
   - [JavaScript](#javascript)
   - [Other](#other)
+  - [People](#people)
 
 ## Python
 
@@ -27,3 +28,7 @@ A curated list of finance libraries, packages and resources for Financial Softwa
 ## Other
 
 - [FinanceDatabase](https://github.com/JerBouma/FinanceDatabase) - Comprehensive list of financial products worldwide.
+
+## People
+
+- [Jerouen Bouma](https://www.jeroenbouma.com/) - Author of FinanceDatabase. Python, Quantitative modeling.
