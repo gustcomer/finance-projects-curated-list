@@ -12,6 +12,7 @@ A curated list of finance libraries, packages and resources for Financial Softwa
 - [FinancePy](https://github.com/domokane/FinancePy) - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
 - [Empyrial](https://github.com/ssantoshp/Empyrial) - An Open Source Portfolio Backtesting Engine.
 - [Riskfolio-Lib](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation.
+- [Finance](https://github.com/shashankvemuri/Finance) - 150+ quantitative finance Python programs to help you gather, manipulate, and analyze stock market data
 
 ## C++
 
