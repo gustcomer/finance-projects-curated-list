@@ -24,6 +24,7 @@ A curated list of finance libraries, packages and resources for Financial Softwa
 
 - [Ghostfolio](https://github.com/ghostfolio/ghostfolio) - Wealth management software to keep track of financial assets. It is written in Typescript, the backend api is based on NestJS with PostgreSQL database with Prisma ORM and Redis for caching. The frontend is build with Angular.
 - [Bank](https://github.com/pietrzakadrian/bank) - Full Stack Web Application similar to financial software that is used in professional banking institutions. Frontend built with React and Backend built with Nest.Js.
+- [fixparser](https://gitlab.com/logotype/fixparser) - Typescript framework for working with FIX protocol messages.
 
 ## Other
 
